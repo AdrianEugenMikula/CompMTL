@@ -8,30 +8,45 @@ and open the template in the editor.
     Author     : ADI
 */
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+.image_block {
+  height: 175px;
+  width:175px;
+  position:relative;
 }
 
-li {
-  float: left;
+.image_block a img{
+ margin:auto; /* Required */
+ position:absolute; /* Required */
+ bottom:0; /* Aligns at the bottom */
+ left:0;right:0; /* Aligns horizontal center */
+ max-height:100%; /* images bigger than 175 px  */
+ max-width:100%;  /* will be shrinked to size */ 
 }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+.AdImg-big{
+    width: 100%;
+    border: red solid;
+    
 }
 
-li a:hover {
-  background-color: #111;
+.AdImg
+{
+ display: inline-block;
+ width:20%;
 }
 
-.active {
-  background-color: #333;
+.SSD_Names
+{
+    text-align: center;
+    font-weight: 100px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #86f0a1;
+   color: white;
+   text-align: center;
 }

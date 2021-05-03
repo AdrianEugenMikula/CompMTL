@@ -1,0 +1,450 @@
+An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "ProdId"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 232
+
+[2,"Undefined array key \"ProdId\"","C:\\xampp\\htdocs\\1231843\\functions.php",232]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined variable $errors
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 11
+
+[2,"Undefined variable $errors","C:\\xampp\\htdocs\\1231843\\buy.php",11]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 142
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions.php",142]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 142
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions.php",142]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 142
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions.php",142]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 142
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions.php",142]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "success"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 226
+
+[2,"Undefined array key \"success\"","C:\\xampp\\htdocs\\1231843\\functions.php",226]An exception occured at 2021 May 0308:56:11pm
+Exception code: 0
+Exception message: Undefined constant "_NAVBAR_CSS"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 228
+
+An exception occured at 2021 May 0309:00:07pm
+Exception code: 0
+Exception message: Undefined constant "_NAVBAR_CSS"
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 228
+
+An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions.php
+Line: 142
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions.php",142]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 142
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",142]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 142
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",142]An exception occured at 2021 May 0310:06:26pm
+Exception code: 0
+Exception message: Class "Products" not found
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 13
+
+An exception occured at 2021 May 0310:06:29pm
+Exception code: 0
+Exception message: Class "Products" not found
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 13
+
+An exception occured at 2021 May 0310:08:22pm
+Exception code: 0
+Exception message: Class "Products" not found
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 13
+
+An exception occured at 2021 May 0310:08:46pm
+Exception code: 0
+Exception message: Class "Products" not found
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 13
+
+An exception occured at 2021 May 0310:08:51pm
+Exception code: 0
+Exception message: Class "Products" not found
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 13
+
+An exception occured at 2021 May 0310:09:26pm
+Exception code: 0
+Exception message: Class "Products" not found
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 13
+
+An exception occured at 2021 May 0310:09:59pm
+Exception code: 0
+Exception message: Class "Products" not found
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 13
+
+An exception occured at 2021 May 0310:22:46pm
+Exception code: 0
+Exception message: Class "Products" not found
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 13
+
+An exception occured at 2021 May 0312:10:47am
+Exception code: 42000
+Exception message: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE projectdb.select_products does not exist
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 16
+
+An exception occured at 2021 May 0312:10:56am
+Exception code: 42000
+Exception message: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE projectdb.select_products does not exist
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 16
+
+An exception occured at 2021 May 0312:13:29am
+Exception code: 0
+Exception message: Undefined constant "_NAVBAR_CSS"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 421
+
+An exception occured at 2021 May 0312:13:40am
+Exception code: 0
+Exception message: Undefined constant "JS_FILE"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 403
+
+An exception occured at 2021 May 0312:14:19am
+Exception code: 0
+Exception message: Undefined constant "JS_FILE"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 403
+
+An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 183
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",183]An exception occured at 2021 May 0312:21:08am
+Exception code: 0
+Exception message: Undefined constant "_NAVBAR_CSS"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 421
+
+An exception occured at 2021 May 0312:23:54am
+Exception code: 0
+Exception message: Call to undefined method Customer::setfirstname()
+File name: C:\xampp\htdocs\1231843\register.php
+Line: 18
+
+An exception occured at 2021 May 0312:35:31am
+Exception code: 0
+Exception message: Undefined constant "_NAVBAR_CSS"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 421
+
+An exception occured at 2021 May 0312:35:41am
+Exception code: 0
+Exception message: Undefined constant "MAX_PROVINCE_LENGTH"
+File name: C:\xampp\htdocs\1231843\functions\Customer.php
+Line: 134
+
+An exception occured at 2021 May 0312:36:00am
+Exception code: 0
+Exception message: Undefined constant "MAX_PROVINCE_LENGTH"
+File name: C:\xampp\htdocs\1231843\functions\Customer.php
+Line: 134
+
+An exception occured at 2021 May 0312:38:28am
+Exception code: 0
+Exception message: Undefined constant "_NAVBAR_CSS"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 422
+
+An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "quantity"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 439
+
+[2,"Undefined array key \"quantity\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",439]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "quantity"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 439
+
+[2,"Undefined array key \"quantity\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",439]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "quantity"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 439
+
+[2,"Undefined array key \"quantity\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",439]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 184
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",184]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key 1
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 184
+
+[2,"Undefined array key 1","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",184]An exception occured at 2021 May 0312:48:27am
+Exception code: 0
+Exception message: Call to undefined function generateFooter()
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 55
+
+An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "customersID"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 531
+
+[2,"Undefined array key \"customersID\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",531]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "ProdId"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 531
+
+[2,"Undefined array key \"ProdId\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",531]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "customersID"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 371
+
+[2,"Undefined array key \"customersID\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",371]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "ProdId"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 531
+
+[2,"Undefined array key \"ProdId\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",531]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "ProdId"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 531
+
+[2,"Undefined array key \"ProdId\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",531]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "ProdId"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 531
+
+[2,"Undefined array key \"ProdId\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",531]An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "ProdId"
+File name: C:\xampp\htdocs\1231843\functions\functions.php
+Line: 531
+
+[2,"Undefined array key \"ProdId\"","C:\\xampp\\htdocs\\1231843\\functions\\functions.php",531]An exception occured at 2021 May 0301:18:55am
+Exception code: 0
+Exception message: count(): Argument #1 ($var) must be of type Countable|array, bool given
+File name: C:\xampp\htdocs\1231843\functions\Product.php
+Line: 141
+
+An exception occured at 2021 May 0301:27:28am
+Exception code: 0
+Exception message: Call to undefined method Product::setCreate_date()
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 24
+
+An exception occured at 2021 May 0301:27:33am
+Exception code: 0
+Exception message: Call to undefined method Product::setCreate_date()
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 24
+
+An exception occured at 2021 May 0301:31:24am
+Exception code: 0
+Exception message: Call to undefined method Product::setCreate_date()
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 24
+
+An exception occured at 2021 May 0301:32:46am
+Exception code: 0
+Exception message: Call to undefined method Product::setCreate_date()
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 24
+
+An exception occured at 2021 May 0301:35:45am
+Exception code: 0
+Exception message: Call to undefined method Product::setCreate_date()
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 24
+
+An exception occured at 2021 May 0301:35:52am
+Exception code: 0
+Exception message: Call to undefined method Product::setCreate_date()
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 24
+
+An exception occured at 2021 May 0301:37:18am
+Exception code: 0
+Exception message: Call to undefined method Product::setCreate_date()
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 24
+
+An exception occured at 2021 May 0301:39:28am
+Exception code: 0
+Exception message: Call to undefined method Product::setModify_date()
+File name: C:\xampp\htdocs\1231843\functions\Products.php
+Line: 25
+
+An error occured at 2021 May 03
+Error code: 2
+Error message: Undefined array key "error_count"
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 37
+
+[2,"Undefined array key \"error_count\"","C:\\xampp\\htdocs\\1231843\\buy.php",37]An exception occured at 2021 May 0301:46:49am
+Exception code: 0
+Exception message: Call to undefined method Purchase::setComment()
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 43
+
+An exception occured at 2021 May 0301:48:14am
+Exception code: 42000
+Exception message: SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE projectdb.insert_into_purchases; expected 0, got 8
+File name: C:\xampp\htdocs\1231843\functions\Purchase.php
+Line: 173
+
+An exception occured at 2021 May 0301:48:58am
+Exception code: 0
+Exception message: Call to undefined method Purchase::setComment()
+File name: C:\xampp\htdocs\1231843\buy.php
+Line: 43
+

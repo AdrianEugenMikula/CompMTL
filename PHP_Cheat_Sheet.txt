@@ -1,0 +1,63 @@
+ADRIAN MIKULA CHEAT SHEET
+
+
+defining a constant
+define(name, value, true/false) 
+
+empty
+Checks whether a variable is empty or not
+
+is_array
+Checks whether a variable is an array
+
+is_bool
+Finds out if a variable is a boolean
+
+
+Check whether the contents of a variable are countable
+is_float
+Find out if the type of a variable is float, alternatives: is_double
+and is_real
+
+is_int
+Check if the type of a variable is an
+integer, is_integer and is_long also works
+is_iterable
+
+Verify that a variable’s content is an iterable value
+is_null
+Checks whether a variable’s value is NULL
+
+is_numeric
+isset
+Determine if a variable has been set and is not NULL
+print_r
+Provides human-readable information about a variable
+Find out if a variable is a number or a numeric string
+
+
+var_dump
+Dumps information about a variable
+
+key
+Fetches a key from an array
+
+ shuffle
+to change the order of something 
+
+ file_put_contents
+Write data to a file
+
+set_error_handler — Sets a user-defined error handler function
+
+set_exception_handler — Sets a user-defined exception handler function
+
+save_to_file - Saves the data in a file
+
+array_merge — Merge one or more arrays
+
+json_decode — Decodes a JSON string
+
+json_encode — Returns the JSON representation of a value
+
+file_exists — Checks whether a file or directory exists

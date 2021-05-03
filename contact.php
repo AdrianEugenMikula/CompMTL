@@ -1,6 +1,6 @@
 <?php
 
-include "functions.php";
+include "functions/functions.php";
 
 generateHeader ("CompMTL Home Page");
 

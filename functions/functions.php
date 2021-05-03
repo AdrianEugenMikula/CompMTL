@@ -580,7 +580,7 @@ if(isset($_POST['submit']) == true){
   }
         else if($Price >max_product_price)
         {
-    $errors['price'] = 'Price cannot be higher than' . max_product_price;
+    $errors['price'] = 'Price cannot be higher than ' . max_product_price;
     $errors['error_count'] = true;
   }
 
